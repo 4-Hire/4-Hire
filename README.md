@@ -12,6 +12,16 @@
 
 ---
 
+### 🎓 42 Intra Profile
+
+<p align="center">
+  <a href="https://github.com/JaeSeoKim/badge42">
+    <img src="https://badge42.vercel.app/api/v2/stats?login=akarimi&theme=dark" alt="42 Stats Card" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <p>
