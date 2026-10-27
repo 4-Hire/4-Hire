@@ -12,16 +12,6 @@
 
 ---
 
-### 🎓 42 Intra Profile
-
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/darkblue/akarimi" alt="42 Stats Card" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 <p>
