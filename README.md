@@ -12,7 +12,7 @@
 
 ---
 
-[![akarimi's 42 stats](https://badge.mediaplus.ma/greenbinary/akarimi)](https://github.com/oakoudad/badge42)
+![My 42 Stats](https://1337-readme.vercel.app/api/profile?intraName=akarimi)
 
 ---
 ### 🛠️ Tech Stack & Tools
