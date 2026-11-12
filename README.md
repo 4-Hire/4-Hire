@@ -12,6 +12,9 @@
 
 ---
 
+[![akarimi's 42 stats](https://badge.mediaplus.ma/greenbinary/akarimi)](https://github.com/oakoudad/badge42)
+
+---
 ### 🛠️ Tech Stack & Tools
 
 <p>
