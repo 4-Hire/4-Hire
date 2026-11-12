@@ -12,9 +12,6 @@
 
 ---
 
-![PROJECT_NAME](https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap.webp)
-
----
 ### 🛠️ Tech Stack & Tools
 
 <p>
